@@ -34,7 +34,7 @@ def transcribe_audio(audio:UploadFile = File(...),sampling_rate=16000):
     #Record audio using Streamlit's audio input
     #audio = st.file_uploader("Upload a voice message", type=["wav", "mp3", "m4a", "flac", "ogg"])
     #audio = st.audio_input("Record a voice message")
-    #results = audio.filename
+    results = "Transcription failed"
     if audio.filename is not None:
         # Display file information for debugging
         #st.write(f"Uploaded file name: {audio.name}")
