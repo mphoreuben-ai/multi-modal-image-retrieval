@@ -60,5 +60,15 @@ uvicorn app.api.app:app --reload
 - Open another cmd window and run the streamlit app using the below command:
 streamlit run app/ui/UI.py
 
+### Testing the solution
+# Text Query
+- NB: Clear previous recordings if any, by clicking the trash can icon that appears when hovering on the audio input.
+- Input your query in the Search textfield and click the Search button.
+- Scroll to see results
+# Audio Query
+- NB: Clear the Search textfield before clicking on the Search button
+- Click on the mic icon to record and click stop when done.
+- Click the Search button
+- Scroll to see results
 
 
