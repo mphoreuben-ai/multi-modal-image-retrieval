@@ -35,7 +35,7 @@ bash
 pip install -r requirements.txt
 
 ### Setup and Installation
-git clone https://github.com/yourusername/MultiModalProject.git
+git clone https://github.com/mphoreuben-ai/multi-modal-image-retrieval.git
 cd MultiModalProject
 
 
