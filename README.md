@@ -13,12 +13,12 @@ The project utilizes FastAPI for serving the API and Streamlit for the user inte
 ## Folder Structure
 
 Here’s a quick overview of the folder structure:
-MultiModalRetrieval 
-MultiModalRetrieval/app 
-MultiModalRetrieval/app/api (API endpoints)
-MultiModalRetrieval/app/services (Backend logic)
-MultiModalRetrieval/app/static (Imagefolder and images)
-MultiModalRetrieval/app/ui (Streamlit UI)
+- MultiModalRetrieval 
+- MultiModalRetrieval/app 
+- MultiModalRetrieval/app/api (API endpoints)
+- MultiModalRetrieval/app/services (Backend logic)
+- MultiModalRetrieval/app/static (Imagefolder and images)
+- MultiModalRetrieval/app/ui (Streamlit UI)
 
 
 
