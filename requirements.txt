@@ -1,0 +1,15 @@
+clip==0.2.0
+faiss_cpu==1.10.0
+fastapi==0.115.8
+librosa==0.10.2.post1
+numpy==1.24.3
+numpy==1.24.4
+openai_whisper==20240930
+Pillow==9.4.0
+Pillow==11.1.0
+pytesseract==0.3.13
+Requests==2.32.3
+streamlit==1.42.0
+torch==2.6.0
+transformers==4.32.1
+transformers==4.47.1
