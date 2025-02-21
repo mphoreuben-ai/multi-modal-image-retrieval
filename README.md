@@ -36,7 +36,7 @@ pip install -r requirements.txt
 
 ### Setup and Installation
 git clone https://github.com/mphoreuben-ai/multi-modal-image-retrieval.git
-cd MultiModalProject
+cd MultiModalRetrieval
 
 
 ### Create and activate a virtual environment
